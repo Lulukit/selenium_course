@@ -1,2 +1,2 @@
 # selenium_course
-# selenium_course
+# https://stepik.org/course/575
