@@ -1,0 +1,6 @@
+cd environments
+
+source selenium_env/bin/activate
+
+
+https://github.com/settings/tokens
